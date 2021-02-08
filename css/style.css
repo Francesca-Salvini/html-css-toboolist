@@ -36,7 +36,8 @@ body{
 main{
     background-color: white;
     width: 70%;
-    margin: 30px auto;
+    margin: auto;
+    border-radius: 8px ;
 }
 
 .add-task{
@@ -61,13 +62,17 @@ main{
 }
 
 .button{
-    margin: 30px 50px;
+    margin: 20px 50px;
     padding-top: 25px;
  
 }
 
 hr {
-    border: 1px solid lightgray;
+    border: 1px solid #f6f8f9}
+
+.liste{
+    margin-left: 50px;
+    margin-top: 15px;
 }
 
 .lista-principale{
@@ -91,7 +96,7 @@ li {
 .check{
     border: 1px solid lightgreen;
     border-radius: 50%;
-    color: lightgreen;
+    color: rgb(83, 190, 83);
     margin-right: 5px;
     padding: 2px 0px 2px 4px;
 }
