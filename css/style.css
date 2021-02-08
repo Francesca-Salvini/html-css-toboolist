@@ -87,3 +87,19 @@ hr {
 li {
     margin: 20px 0px;
 }
+
+.check{
+    border: 1px solid lightgreen;
+    border-radius: 50%;
+    color: lightgreen;
+    margin-right: 5px;
+    padding: 2px 0px 2px 4px;
+}
+
+.cross {
+    border: 1px solid red;
+    border-radius: 50%;
+    color: red;
+    padding: 2px 0px 2px 4px;
+    margin-right: 5px;
+}
