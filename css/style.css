@@ -69,3 +69,9 @@ main{
 hr {
     border: 1px solid lightgray;
 }
+
+.lista-principale{
+    list-style-type: none;
+    display: inline-block;
+    color: rgb(43, 43, 43);
+}
