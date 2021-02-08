@@ -41,7 +41,7 @@ main{
 
 .add-task{
     background-color: rgb(31, 162, 206);
-   text-decoration: none;
+    text-decoration: none;
     color: white;
     padding: 8px;
     font-size: 13px;
@@ -51,7 +51,7 @@ main{
 
 .add-section {
     
-   text-decoration: none;
+    text-decoration: none;
     color: lightgray;
     border: 1px solid lightgray;
     padding: 8px;
@@ -102,4 +102,37 @@ li {
     color: red;
     padding: 2px 0px 2px 4px;
     margin-right: 5px;
+}
+
+.right-button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 6px 10px;
+    font-size: 9px;
+    border-radius: 8px;
+}
+
+#editorial {
+    background-color: rgb(31, 162, 206);
+}
+
+#q1-goals{
+    background-color: rgb(136, 31, 206);
+}
+
+#recruiting{
+    background-color: rgb(52, 175, 148);
+}
+
+#mobile{
+    background-color: rgb(187, 106, 53);
+}
+
+#website{
+    background-color: rgb(184, 68, 155);
+}
+
+#sales{
+    background-color: rgb(160, 182, 38);
 }
