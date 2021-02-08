@@ -75,3 +75,15 @@ hr {
     display: inline-block;
     color: rgb(43, 43, 43);
 }
+
+.lista-secondaria {
+    list-style-type: none;
+    display: inline-block;
+    color: rgb(43, 43, 43);
+    padding: 10px 40px;
+
+}
+
+li {
+    margin: 20px 0px;
+}
