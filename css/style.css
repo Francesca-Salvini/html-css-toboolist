@@ -119,8 +119,8 @@ li {
     border-radius: 8px;
 }
 
- .right-button-editorial {
-    background-color: rgb(31, 162, 206);
+ .right-button {
+    
     text-decoration: none;
     color: white;
     font-weight: bold;
@@ -129,22 +129,26 @@ li {
     border-radius: 8px;
 }
 
-#q1-goals{
+.editorial{
+    background-color: rgb(31, 162, 206);
+}
+
+.q1-goals{
     background-color: rgb(136, 31, 206);
 }
 
-#recruiting{
+ .recruiting{
     background-color: rgb(52, 175, 148);
 }
 
-#mobile{
+ .mobile{
     background-color: rgb(187, 106, 53);
 }
 
-#website{
+ .website{
     background-color: rgb(184, 68, 155);
 }
 
-#sales{
+ .sales{
     background-color: rgb(160, 182, 38);
 }
